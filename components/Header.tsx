@@ -37,7 +37,7 @@ function Header() {
                     <li className="headerLink">My List</li>
                 </ul>
             </div>
-            <div className={"flex items-center space-x-4 text-sm text-white font-light"}>
+            <div className="flex items-center space-x-4 text-sm text-white font-light">
                 <SearchIcon className="hidden sm:inline h-6 w-6 text-white"/>
                 <p className="hidden lg:inline">Kids</p>
                 <BellIcon className="h-6 w-6 text-white"/>
